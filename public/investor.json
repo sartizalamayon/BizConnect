@@ -1,0 +1,90 @@
+[
+    {
+        "email": "jane.smith@example.com",
+        "interested_fields": ["SaaS", "Fintech", "Healthtech"],
+        "skills": ["Digital Marketing", "Leadership", "Strategy Development", "Communication"],
+        "experience": "15 years of experience in marketing and investment, with a focus on technology-driven companies.",
+        "introduction": "Investor focused on supporting scalable tech solutions and innovative enterprises.",
+        "total_investments": 12000000,
+        "company_names": ["Smith Enterprises", "InnovateX"],
+        "open_for_investments": true,
+        "open_for_mentorship": true
+    },
+    {
+        "email": "michael.johnson@example.com",
+        "interested_fields": ["Product Development", "User Experience", "Innovation"],
+        "skills": ["Project Management", "Leadership", "Communication", "Cross-functional Collaboration"],
+        "experience": "20 years of experience in product management and investment in technology startups.",
+        "introduction": "Investor with a keen eye for promising tech startups and user-centric solutions.",
+        "total_investments": 9000000,
+        "company_names": ["Tech Visionaries", "Product Innovators"],
+        "open_for_investments": true,
+        "open_for_mentorship": true
+    },
+    {
+        "email": "susan.lee@example.com",
+        "interested_fields": ["Edtech", "AI", "Robotics"],
+        "skills": ["AI Development", "Machine Learning", "Robotics", "Strategic Planning"],
+        "experience": "10 years of experience in AI and robotics, with investments in cutting-edge educational technologies.",
+        "introduction": "Passionate about the intersection of technology and education, driving innovation in AI and robotics.",
+        "total_investments": 7000000,
+        "company_names": ["AI Edu Innovators", "Tech Robotics"],
+        "open_for_investments": true,
+        "open_for_mentorship": true
+    },
+    {
+        "email": "david.brown@example.com",
+        "interested_fields": ["Cloud Computing", "Cybersecurity", "Blockchain"],
+        "skills": ["Cloud Architecture", "Cybersecurity", "Blockchain Development", "Leadership"],
+        "experience": "15 years of experience in cloud computing and cybersecurity, with a strong investment portfolio in blockchain technologies.",
+        "introduction": "Focused on securing and advancing technology infrastructures through innovative investments.",
+        "total_investments": 10000000,
+        "company_names": ["Cloud Security Ventures", "Blockchain Innovations"],
+        "open_for_investments": true,
+        "open_for_mentorship": true
+    },
+    {
+        "email": "emily.green@example.com",
+        "interested_fields": ["Environmental Tech", "Renewable Energy", "Sustainable Development"],
+        "skills": ["Renewable Energy Systems", "Sustainability", "Environmental Impact Analysis", "Project Management"],
+        "experience": "12 years of experience in renewable energy and environmental tech, with a focus on sustainable development projects.",
+        "introduction": "Dedicated to investing in technologies that drive environmental sustainability and renewable energy solutions.",
+        "total_investments": 8000000,
+        "company_names": ["Green Energy Ventures", "Sustainable Innovations"],
+        "open_for_investments": true,
+        "open_for_mentorship": true
+    },
+    {
+        "email": "linda.garcia@example.com",
+        "interested_fields": ["Healthcare", "Biotech", "Pharmaceuticals"],
+        "skills": ["Biotech Research", "Healthcare Management", "Pharmaceutical Development", "Strategic Planning"],
+        "experience": "18 years of experience in healthcare and biotech investments, driving advancements in medical technology.",
+        "introduction": "Investing in groundbreaking healthcare solutions and biotechnologies to improve global health outcomes.",
+        "total_investments": 15000000,
+        "company_names": ["HealthTech Innovations", "BioPharma Ventures"],
+        "open_for_investments": true,
+        "open_for_mentorship": true
+    },
+    {
+        "email": "james.wilson@example.com",
+        "interested_fields": ["E-commerce", "Fintech", "Mobile Apps"],
+        "skills": ["E-commerce Development", "Mobile Application Development", "Fintech Solutions", "Business Strategy"],
+        "experience": "14 years of experience in e-commerce and fintech investments, with a focus on mobile app innovations.",
+        "introduction": "Supporting the next generation of e-commerce platforms and fintech solutions through strategic investments.",
+        "total_investments": 9500000,
+        "company_names": ["E-commerce Innovations", "Fintech Pioneers"],
+        "open_for_investments": true,
+        "open_for_mentorship": true
+    },
+    {
+        "email": "sarah.jones@example.com",
+        "interested_fields": ["Smart Cities", "IoT", "Transportation"],
+        "skills": ["IoT Development", "Urban Planning", "Transportation Solutions", "Leadership"],
+        "experience": "16 years of experience in smart city technologies and IoT investments, with a focus on innovative transportation solutions.",
+        "introduction": "Investing in technologies that drive the development of smart cities and efficient transportation systems.",
+        "total_investments": 11000000,
+        "company_names": ["Smart City Innovations", "IoT Solutions"],
+        "open_for_investments": true,
+        "open_for_mentorship": true
+    }
+]

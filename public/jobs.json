@@ -1,0 +1,113 @@
+[
+    {
+        "email": "john.doe@example.com",
+        "name": "John Doe",
+        "Job_title": "Software Engineer",
+        "Job_description": "We are looking for a skilled software engineer to join our team. The candidate will be responsible for developing high-quality software solutions.",
+        "Job_requirements": [
+            "Bachelor's degree in Computer Science or related field",
+            "3+ years of experience in software development",
+            "Proficiency in JavaScript, Python, and Java",
+            "Strong problem-solving skills",
+            "Excellent communication skills"
+        ],
+        "skills": [
+            "JavaScript",
+            "Python",
+            "Java",
+            "Problem-solving",
+            "Communication"
+        ],
+        "Company_name": "Tech Innovators",
+        "deadline": "2024-08-01"
+    },
+    {
+        "email": "jane.smith@example.com",
+        "name": "Jane Smith",
+        "Job_title": "Marketing Manager",
+        "Job_description": "We are seeking a dynamic marketing manager to lead our marketing efforts. The candidate will develop and implement marketing strategies to boost brand awareness.",
+        "Job_requirements": [
+            "Bachelor's degree in Marketing or Business",
+            "5+ years of experience in marketing",
+            "Proficiency in digital marketing tools",
+            "Strong leadership skills",
+            "Excellent communication and interpersonal skills"
+        ],
+        "skills": [
+            "Digital Marketing",
+            "Leadership",
+            "Strategy Development",
+            "Communication",
+            "Interpersonal Skills"
+        ],
+        "Company_name": "Smith Enterprises",
+        "deadline": "2024-08-15"
+    },
+    {
+        "email": "michael.johnson@example.com",
+        "name": "Michael Johnson",
+        "Job_title": "Product Manager",
+        "Job_description": "We are looking for an experienced product manager to lead product development and ensure the successful delivery of new products.",
+        "Job_requirements": [
+            "Bachelor's degree in Business or related field",
+            "5+ years of experience in product management",
+            "Proficiency in project management tools",
+            "Strong leadership and communication skills",
+            "Ability to work cross-functionally"
+        ],
+        "skills": [
+            "Project Management",
+            "Leadership",
+            "Communication",
+            "Cross-functional Collaboration",
+            "Product Development"
+        ],
+        "Company_name": "Tech Visionaries",
+        "deadline": "2024-09-01"
+    },
+    {
+        "email": "david.brown@example.com",
+        "name": "David Brown",
+        "Job_title": "Lead Developer",
+        "Job_description": "We are hiring a lead developer to oversee the development of scalable applications. The candidate will lead a team and ensure high-quality code delivery.",
+        "Job_requirements": [
+            "Bachelor's degree in Information Technology or related field",
+            "5+ years of experience in software development",
+            "Proficiency in Java, Spring Boot, and Microservices Architecture",
+            "Experience in project management",
+            "Strong leadership and problem-solving skills"
+        ],
+        "skills": [
+            "Java",
+            "Spring Boot",
+            "Microservices Architecture",
+            "Project Management",
+            "Leadership",
+            "Problem-solving"
+        ],
+        "Company_name": "Innovate Labs",
+        "deadline": "2024-08-20"
+    },
+    {
+        "email": "emily.green@example.com",
+        "name": "Emily Green",
+        "Job_title": "Tech Lead",
+        "Job_description": "We are seeking a tech lead to oversee technical projects and lead a team of developers. The candidate should have expertise in Ruby on Rails and React Native.",
+        "Job_requirements": [
+            "Bachelor's degree in Computer Science or related field",
+            "4+ years of experience in software development",
+            "Proficiency in Ruby on Rails, React Native, and DevOps",
+            "Experience in leading technical teams",
+            "Strong problem-solving and leadership skills"
+        ],
+        "skills": [
+            "Ruby on Rails",
+            "React Native",
+            "DevOps",
+            "Leadership",
+            "Problem-solving"
+        ],
+        "Company_name": "Green Tech Solutions",
+        "deadline": "2024-08-25"
+    }
+]

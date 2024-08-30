@@ -1,0 +1,28 @@
+[
+    [
+      {"to": "/entrepreneur/profile", "text": "Profile"},
+      {"to": "/entrepreneur/startups", "text": "Startups"},
+      {"to": "/entrepreneur/findPartners", "text": "Find Co-founders"},
+      {"to": "/entrepreneur/findInvestors", "text": "Find Investors"},
+      {"to": "/entrepreneur/findMentors", "text": "Find Mentors"},
+      {"to": "/entrepreneur/findEmployees", "text": "Find Employees"},
+      {"to": "/entrepreneur/notifications", "text": "Notifications"}
+    ],
+    {
+      "investor": [
+        {"to": "/investor/profile", "text": "Profile"},
+        {"to": "/investor/findStartups", "text": "Find Startups"},
+        {"to": "/investor/findMentees", "text": "Find Mentees"},
+        {"to": "/investor/notifications", "text": "Notifications"}
+      ]
+    },
+    {
+      "student": [
+        {"to": "/student/profile", "text": "Profile"},
+        {"to": "/student/findJobs", "text": "Find Jobs"},
+        {"to": "/student/findPartners", "text": "Find Co-founders"},
+        {"to": "/student/notifications", "text": "Notifications"}
+      ]
+    }
+  ]
+  

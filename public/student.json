@@ -1,0 +1,178 @@
+[
+    {
+        "email": "sarah.lee@example.com",
+        "major": "Computer Science",
+        "graduation_year": 2023,
+        "introduction": "Aspiring software developer with a passion for AI and machine learning.",
+        "skills": [
+            "Python",
+            "JavaScript",
+            "Machine Learning",
+            "Data Analysis"
+        ],
+        "interested_fields": [
+            "Software Development",
+            "Artificial Intelligence",
+            "Data Science"
+        ],
+        "experience": "Interned at a tech startup, worked on several AI projects.",
+        "current_employment_status": false,
+        "highest_education_degree": "Bachelor's",
+        "last_result": 3.8,
+        "open_for_employment": true
+    },
+    {
+        "email": "john.wilson@example.com",
+        "major": "Business Administration",
+        "graduation_year": 2024,
+        "introduction": "Motivated business student eager to make an impact in the corporate world.",
+        "skills": [
+            "Leadership",
+            "Marketing",
+            "Financial Analysis",
+            "Strategic Planning"
+        ],
+        "interested_fields": [
+            "Marketing",
+            "Finance",
+            "Management"
+        ],
+        "experience": "Worked as a marketing assistant in a local firm.",
+        "current_employment_status": false,
+        "highest_education_degree": "Bachelor's",
+        "last_result": 3.6,
+        "open_for_employment": true
+    },
+    {
+        "email": "emily.martin@example.com",
+        "major": "Mechanical Engineering",
+        "graduation_year": 2022,
+        "introduction": "Passionate about designing innovative mechanical systems.",
+        "skills": [
+            "CAD",
+            "SolidWorks",
+            "Project Management",
+            "Thermodynamics"
+        ],
+        "interested_fields": [
+            "Product Design",
+            "Manufacturing",
+            "Automotive Engineering"
+        ],
+        "experience": "Interned at an automotive company, contributed to design projects.",
+        "current_employment_status": false,
+        "highest_education_degree": "Bachelor's",
+        "last_result": 3.7,
+        "open_for_employment": true
+    },
+    {
+        "email": "michael.jones@example.com",
+        "major": "Electrical Engineering",
+        "graduation_year": 2025,
+        "introduction": "Eager to apply my knowledge in electrical systems and circuits.",
+        "skills": [
+            "Circuit Design",
+            "MATLAB",
+            "Embedded Systems",
+            "Signal Processing"
+        ],
+        "interested_fields": [
+            "Embedded Systems",
+            "Renewable Energy",
+            "Robotics"
+        ],
+        "experience": "Worked on university projects involving circuit design and signal processing.",
+        "current_employment_status": false,
+        "highest_education_degree": "Bachelor's",
+        "last_result": 3.5,
+        "open_for_employment": true
+    },
+    {
+        "email": "james.smith@example.com",
+        "major": "Civil Engineering",
+        "graduation_year": 2023,
+        "introduction": "Dedicated to building sustainable and efficient infrastructure.",
+        "skills": [
+            "AutoCAD",
+            "Structural Analysis",
+            "Project Management",
+            "Surveying"
+        ],
+        "interested_fields": [
+            "Construction Management",
+            "Structural Engineering",
+            "Urban Planning"
+        ],
+        "experience": "Interned at a construction firm, worked on project management.",
+        "current_employment_status": false,
+        "highest_education_degree": "Bachelor's",
+        "last_result": 3.4,
+        "open_for_employment": true
+    },
+    {
+        "email": "linda.johnson@example.com",
+        "major": "Graphic Design",
+        "graduation_year": 2024,
+        "introduction": "Creative graphic designer with a knack for visual storytelling.",
+        "skills": [
+            "Adobe Creative Suite",
+            "Illustration",
+            "Branding",
+            "Typography"
+        ],
+        "interested_fields": [
+            "Graphic Design",
+            "Branding",
+            "UI/UX Design"
+        ],
+        "experience": "Freelanced as a graphic designer, created branding materials for small businesses.",
+        "current_employment_status": false,
+        "highest_education_degree": "Bachelor's",
+        "last_result": 3.9,
+        "open_for_employment": true
+    },
+    {
+        "email": "robert.brown@example.com",
+        "major": "Information Technology",
+        "graduation_year": 2023,
+        "introduction": "Enthusiastic IT student looking to make a difference in the tech industry.",
+        "skills": [
+            "Networking",
+            "Cybersecurity",
+            "Java",
+            "SQL"
+        ],
+        "interested_fields": [
+            "Cybersecurity",
+            "IT Management",
+            "Software Development"
+        ],
+        "experience": "Interned at an IT support firm, handled networking and security tasks.",
+        "current_employment_status": false,
+        "highest_education_degree": "Bachelor's",
+        "last_result": 3.6,
+        "open_for_employment": true
+    },
+    {
+        "email": "anna.davis@example.com",
+        "major": "Environmental Science",
+        "graduation_year": 2022,
+        "introduction": "Passionate about solving environmental challenges through science.",
+        "skills": [
+            "Environmental Impact Assessment",
+            "Data Analysis",
+            "Sustainability",
+            "Research"
+        ],
+        "interested_fields": [
+            "Environmental Consulting",
+            "Sustainability",
+            "Climate Change"
+        ],
+        "experience": "Interned at an environmental consulting firm, conducted impact assessments.",
+        "current_employment_status": false,
+        "highest_education_degree": "Bachelor's",
+        "last_result": 3.8,
+        "open_for_employment": true
+    }
+]

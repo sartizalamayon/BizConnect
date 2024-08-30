@@ -1,0 +1,62 @@
+[
+    {
+        "email": "john.doe@example.com",
+        "industry": "Technology",
+        "introduction": "Experienced entrepreneur with a passion for developing innovative tech solutions.",
+        "current_employment_status": true,
+        "job_title": "CEO",
+        "skills": ["JavaScript", "Python", "Java", "Problem-solving", "Leadership"],
+        "interested_fields": ["AI", "Blockchain", "IoT"],
+        "experience": "Over 10 years of experience in the technology industry, leading successful tech startups.",
+        "total_fund_raised": 7000000,
+        "company_names": ["Tech Innovators", "Future Tech"]
+    },
+    {
+        "email": "jane.smith@example.com",
+        "industry": "Technology",
+        "introduction": "Investor focused on supporting scalable tech solutions and innovative enterprises.",
+        "current_employment_status": true,
+        "job_title": "Investor",
+        "skills": ["Digital Marketing", "Leadership", "Strategy Development", "Communication"],
+        "interested_fields": ["SaaS", "Fintech", "Healthtech"],
+        "experience": "15 years of experience in marketing and investment, with a focus on technology-driven companies.",
+        "total_fund_raised": 5500000,
+        "company_names": ["Smith Enterprises", "InnovateX"]
+    },
+    {
+        "email": "david.brown@example.com",
+        "industry": "Software Development",
+        "introduction": "Seasoned entrepreneur specializing in software development and scalable applications.",
+        "current_employment_status": true,
+        "job_title": "Lead Developer",
+        "skills": ["Java", "Spring Boot", "Microservices", "Project Management", "Leadership"],
+        "interested_fields": ["Cloud Computing", "Microservices", "DevOps"],
+        "experience": "Over 8 years of experience in software development and leading tech teams.",
+        "total_fund_raised": 5500000,
+        "company_names": ["Innovate Labs", "Tech Savvy"]
+    },
+    {
+        "email": "emily.green@example.com",
+        "industry": "Technology",
+        "introduction": "Tech enthusiast with a focus on developing eco-friendly tech solutions.",
+        "current_employment_status": true,
+        "job_title": "Tech Lead",
+        "skills": ["Ruby on Rails", "React Native", "DevOps", "Leadership", "Problem-solving"],
+        "interested_fields": ["Green Technology", "Sustainable Solutions", "Renewable Energy"],
+        "experience": "5 years of experience in leading technical projects and developing sustainable technologies.",
+        "total_fund_raised": 4000000,
+        "company_names": ["Green Tech Solutions", "Eco Innovators"]
+    },
+    {
+        "email": "michael.johnson@example.com",
+        "industry": "Technology",
+        "introduction": "Investor with a keen eye for promising tech startups and user-centric solutions.",
+        "current_employment_status": true,
+        "job_title": "Product Manager",
+        "skills": ["Project Management", "Leadership", "Communication", "Cross-functional Collaboration"],
+        "interested_fields": ["Product Development", "User Experience", "Innovation"],
+        "experience": "20 years of experience in product management and investment in technology startups.",
+        "total_fund_raised": 6500000,
+        "company_names": ["Tech Visionaries", "Product Innovators"]
+    }
+]

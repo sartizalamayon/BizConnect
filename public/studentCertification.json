@@ -1,0 +1,72 @@
+[
+    {
+        "email": "sarah.lee@example.com",
+        "certificate_title": "Machine Learning",
+        "issuedby": "Coursera",
+        "date": "2022-05-15",
+        "description": "Completed a comprehensive course on machine learning covering supervised and unsupervised learning."
+    },
+    {
+        "email": "sarah.lee@example.com",
+        "certificate_title": "Data Science",
+        "issuedby": "edX",
+        "date": "2023-03-10",
+        "description": "Learned data science techniques and tools, including data manipulation, visualization, and statistical analysis."
+    },
+    {
+        "email": "john.wilson@example.com",
+        "certificate_title": "Full Stack Web Development",
+        "issuedby": "Coursera",
+        "date": "2021-11-20",
+        "description": "Acquired skills in full stack web development including front-end and back-end technologies."
+    },
+    {
+        "email": "emily.martin@example.com",
+        "certificate_title": "Graphic Design",
+        "issuedby": "Udemy",
+        "date": "2022-08-05",
+        "description": "Learned graphic design principles and tools to create visually appealing designs."
+    },
+    {
+        "email": "michael.jones@example.com",
+        "certificate_title": "Mobile App Development",
+        "issuedby": "Coursera",
+        "date": "2023-01-15",
+        "description": "Completed a course on mobile app development using React Native and other relevant technologies."
+    },
+    {
+        "email": "james.smith@example.com",
+        "certificate_title": "Python for Data Science",
+        "issuedby": "edX",
+        "date": "2022-12-01",
+        "description": "Gained proficiency in Python programming specifically for data science applications."
+    },
+    {
+        "email": "linda.garcia@example.com",
+        "certificate_title": "Machine Learning",
+        "issuedby": "Coursera",
+        "date": "2022-07-20",
+        "description": "Studied machine learning algorithms and their applications in real-world scenarios."
+    },
+    {
+        "email": "robert.brown@example.com",
+        "certificate_title": "Web Development",
+        "issuedby": "Udacity",
+        "date": "2023-04-10",
+        "description": "Learned web development technologies including HTML, CSS, and JavaScript."
+    },
+    {
+        "email": "anna.davis@example.com",
+        "certificate_title": "Blockchain Basics",
+        "issuedby": "Coursera",
+        "date": "2023-02-25",
+        "description": "Introduction to blockchain technology and its applications in various industries."
+    },
+    {
+        "email": "anna.davis@example.com",
+        "certificate_title": "Advanced Solidity",
+        "issuedby": "edX",
+        "date": "2023-05-30",
+        "description": "Advanced course on Solidity programming language and smart contract development."
+    }
+]

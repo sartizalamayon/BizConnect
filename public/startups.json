@@ -1,0 +1,113 @@
+[
+    {
+      "email": "john.doe@example.com",
+      "startup_name": "Tech Innovators",
+      "description": "Building innovative tech solutions to change the world.",
+      "total_funding_raised": 5000000,
+      "funding_goal": 10000000,
+      "current_funding": 3000000,
+      "open_for_fund_raising": true,
+      "date": "2015-01-01",
+      "industry": "Technology"
+    },
+    {
+      "email": "john.doe@example.com",
+      "startup_name": "Future Tech",
+      "description": "Developing future-ready technologies.",
+      "total_funding_raised": 2000000,
+      "funding_goal": 8000000,
+      "current_funding": 1000000,
+      "open_for_fund_raising": true,
+      "date": "2018-06-15",
+      "industry": "Technology"
+    },
+    {
+      "email": "jane.smith@example.com",
+      "startup_name": "Smith Enterprises",
+      "description": "Creating scalable solutions for everyday challenges.",
+      "total_funding_raised": 4000000,
+      "funding_goal": 12000000,
+      "current_funding": 6000000,
+      "open_for_fund_raising": true,
+      "date": "2013-02-20",
+      "industry": "Technology"
+    },
+    {
+      "email": "jane.smith@example.com",
+      "startup_name": "InnovateX",
+      "description": "Innovating with new technologies.",
+      "total_funding_raised": 1500000,
+      "funding_goal": 5000000,
+      "current_funding": 2000000,
+      "open_for_fund_raising": false,
+      "date": "2020-10-05",
+      "industry": "Technology"
+    },
+    {
+      "email": "david.brown@example.com",
+      "startup_name": "Innovate Labs",
+      "description": "Building scalable applications.",
+      "total_funding_raised": 2500000,
+      "funding_goal": 9000000,
+      "current_funding": 4500000,
+      "open_for_fund_raising": true,
+      "date": "2016-03-10",
+      "industry": "Software Development"
+    },
+    {
+      "email": "david.brown@example.com",
+      "startup_name": "Tech Savvy",
+      "description": "Developing tech-savvy solutions.",
+      "total_funding_raised": 3000000,
+      "funding_goal": 10000000,
+      "current_funding": 5000000,
+      "open_for_fund_raising": true,
+      "date": "2019-08-25",
+      "industry": "Software Development"
+    },
+    {
+      "email": "emily.green@example.com",
+      "startup_name": "Green Tech Solutions",
+      "description": "Leading teams to deliver impactful solutions.",
+      "total_funding_raised": 3500000,
+      "funding_goal": 15000000,
+      "current_funding": 7000000,
+      "open_for_fund_raising": true,
+      "date": "2014-05-30",
+      "industry": "Technology"
+    },
+    {
+      "email": "emily.green@example.com",
+      "startup_name": "Eco Innovators",
+      "description": "Innovating with eco-friendly tech.",
+      "total_funding_raised": 500000,
+      "funding_goal": 6000000,
+      "current_funding": 2500000,
+      "open_for_fund_raising": true,
+      "date": "2021-12-01",
+      "industry": "Environmental Technology"
+    },
+    {
+      "email": "michael.johnson@example.com",
+      "startup_name": "Tech Visionaries",
+      "description": "Delivering user-centric solutions.",
+      "total_funding_raised": 4500000,
+      "funding_goal": 14000000,
+      "current_funding": 8000000,
+      "open_for_fund_raising": true,
+      "date": "2012-09-12",
+      "industry": "Technology"
+    },
+    {
+      "email": "michael.johnson@example.com",
+      "startup_name": "Product Innovators",
+      "description": "Innovating products for the future.",
+      "total_funding_raised": 2000000,
+      "funding_goal": 10000000,
+      "current_funding": 5000000,
+      "open_for_fund_raising": false,
+      "date": "2017-04-22",
+      "industry": "Product Development"
+    }
+  ]
+  

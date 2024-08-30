@@ -1,0 +1,58 @@
+[
+    {
+        "email": "sarah.lee@example.com",
+        "project_title": "AI Chatbot",
+        "description": "Developed an AI chatbot using natural language processing to assist users with customer service inquiries.",
+        "project_skills": ["Python", "NLP", "Machine Learning"],
+        "project_url": "https://github.com/sarahlee/ai-chatbot"
+    },
+    {
+        "email": "john.wilson@example.com",
+        "project_title": "E-commerce Website",
+        "description": "Created a full-stack e-commerce website using React and Node.js, allowing users to browse and purchase products online.",
+        "project_skills": ["React", "Node.js", "JavaScript"],
+        "project_url": "https://github.com/johnwilson/e-commerce-website"
+    },
+    {
+        "email": "emily.martin@example.com",
+        "project_title": "Portfolio Website",
+        "description": "Designed and developed a personal portfolio website to showcase my design projects and skills.",
+        "project_skills": ["HTML", "CSS", "JavaScript"],
+        "project_url": "https://github.com/emilymartin/portfolio-website"
+    },
+    {
+        "email": "michael.jones@example.com",
+        "project_title": "Mobile App Development",
+        "description": "Built a mobile application for task management using React Native, allowing users to create and manage their tasks on the go.",
+        "project_skills": ["React Native", "JavaScript", "Mobile Development"],
+        "project_url": "https://github.com/michaeljones/task-manager-app"
+    },
+    {
+        "email": "james.smith@example.com",
+        "project_title": "Data Analysis Project",
+        "description": "Conducted data analysis on a large dataset using Python and pandas to uncover trends and insights.",
+        "project_skills": ["Python", "pandas", "Data Analysis"],
+        "project_url": "https://github.com/jamessmith/data-analysis-project"
+    },
+    {
+        "email": "linda.garcia@example.com",
+        "project_title": "Machine Learning Model",
+        "description": "Developed a machine learning model to predict housing prices based on various features using scikit-learn.",
+        "project_skills": ["Python", "scikit-learn", "Machine Learning"],
+        "project_url": "https://github.com/lindagarcia/housing-price-prediction"
+    },
+    {
+        "email": "robert.brown@example.com",
+        "project_title": "Weather App",
+        "description": "Created a weather application using JavaScript and an external API to display current weather conditions for any location.",
+        "project_skills": ["JavaScript", "API Integration", "Web Development"],
+        "project_url": "https://github.com/robertbrown/weather-app"
+    },
+    {
+        "email": "anna.davis@example.com",
+        "project_title": "Blockchain Project",
+        "description": "Developed a blockchain application for secure and transparent transactions using Solidity and Ethereum.",
+        "project_skills": ["Solidity", "Ethereum", "Blockchain"],
+        "project_url": "https://github.com/annadavis/blockchain-project"
+    }
+]
